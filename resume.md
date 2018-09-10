@@ -11,6 +11,7 @@ CSS, Material-UI, Mocha, Chai
 ## PROJECTS
 
 **Breadcrumbs (Feb 2018)**
+
 Github: ​https://github.com/fsa-1710-breadcrumbs
 Link: https://expo.io/@hokevins/breadcrumbs
 An augmented reality React-Native iOS app inspired by Hansel and Gretel. Users can create or follow a trail of AR
@@ -20,6 +21,7 @@ breadcrumbs, rendered as 3D floating spheres through your phone's camera​.
 - Collected data using relative location in set intervals that saved to the database upon creating a trail
 
 **Panda Attack! (Jan 2018)**
+
 Github: ​https://github.com/shannenye/Panda-Attack
 Link: https://panda-attack.herokuapp.com/
 Single Player arcade style game leveraging Phaser.io library. A person uses their mouse to swat panda sprites to
