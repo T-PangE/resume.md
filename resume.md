@@ -1,9 +1,9 @@
 # Shannen Ye
 **Fresh Meadows, NY 11365 | 718.483.2196 | ​shannen.ye@gmail.com**
 
-    Github: https://github.com/shannenye​
-    Portfolio: https://shannenye.github.io/
-    LinkedIn: https://www.linkedin.com/in/shannenye/
+[Github](https://github.com/shannenye​)
+[Portfolio](https://shannenye.github.io/)
+[LinkedIn](https://www.linkedin.com/in/shannenye/)
 
 ## TECHNICAL SKILLS
 - *Proficient:* Javascript, Node.js, Express.js, PostgreSQL, Sequelize, Git, HTML5, React, React-Redux, React-Native,
@@ -13,7 +13,8 @@ CSS, Material-UI, Mocha, Chai
 ## PROJECTS
 
 **Breadcrumbs (Feb 2018)**
-[Github](​https://github.com/fsa-1710-breadcrumbs) | [Link](https://expo.io/@hokevins/breadcrumbs)
+[Github](​https://github.com/fsa-1710-breadcrumbs)
+[Link](https://expo.io/@hokevins/breadcrumbs)
 An augmented reality React-Native iOS app inspired by Hansel and Gretel. Users can create or follow a trail of AR
 breadcrumbs, rendered as 3D floating spheres through your phone's camera​.
 - Created 3D wire-frame sphere using EXPO-Three and Three.js AR camera
