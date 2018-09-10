@@ -2,7 +2,9 @@
 **Fresh Meadows, NY 11365 | 718.483.2196 | ​shannen.ye@gmail.com**
 
 [Link to Github](https://github.com/shannenye​)
+
 [Link to Portfolio](https://shannenye.github.io/)
+
 [Link to LinkedIn](https://www.linkedin.com/in/shannenye/)
 
 ## TECHNICAL SKILLS
@@ -15,7 +17,9 @@ CSS, Material-UI, Mocha, Chai
 **Breadcrumbs (Feb 2018)**
 
 [Link to Github Repo](​https://github.com/fsa-1710-breadcrumbs)
+
 [Link to App](https://expo.io/@hokevins/breadcrumbs)
+
 An augmented reality React-Native iOS app inspired by Hansel and Gretel. Users can create or follow a trail of AR
 breadcrumbs, rendered as 3D floating spheres through your phone's camera​.
 - Created 3D wire-frame sphere using EXPO-Three and Three.js AR camera
@@ -25,6 +29,7 @@ breadcrumbs, rendered as 3D floating spheres through your phone's camera​.
 **Panda Attack! (Jan 2018)**
 
 [Link to Github Repo](​https://github.com/shannenye/Panda-Attack)
+
 [Link to App](https://panda-attack.herokuapp.com/)
 
 Single Player arcade style game leveraging Phaser.io library. A person uses their mouse to swat panda sprites to
