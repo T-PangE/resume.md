@@ -16,7 +16,7 @@ CSS, Material-UI, Mocha, Chai
 
 **Breadcrumbs (Feb 2018)**
 
-[Link to Github Repo](​https://github.com/fsa-1710-breadcrumbs)
+[Link to Github Repo](​https://github.com/fsa-1710-breadcrumbs/)
 
 [Link to App](https://expo.io/@hokevins/breadcrumbs)
 
