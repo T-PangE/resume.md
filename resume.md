@@ -16,9 +16,9 @@ CSS, Material-UI, Mocha, Chai
 
 **Breadcrumbs (Feb 2018)**
 
-[Link to Github Repo](​https://github.com/fsa-1710-breadcrumbs/)
+[Link to Github Repo](https://github.com/fsa-1710-breadcrumbs)
 
-[Link to App](https://expo.io/@hokevins/breadcrum-bs)
+[Link to App](https://expo.io/@hokevins/breadcrumbs)
 
 An augmented reality React-Native iOS app inspired by Hansel and Gretel. Users can create or follow a trail of AR
 breadcrumbs, rendered as 3D floating spheres through your phone's camera​.
