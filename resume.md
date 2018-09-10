@@ -31,6 +31,7 @@ protect a zookeeper using a neon pink fly-swatter within a certain amount of tim
 ## EXPERIENCE
 
 **Apex Logistics International NY Inc. (​Oct 2016 to July 2017)**
+
 *Accounts Payable Representative ​​ - ​Springfield Gardens, NY*
 - Maintained financial reports by monitoring daily cash flow of incoming and outgoing expenses
 - Saved company $50k by following up on legal claims and increased revenue by more than $1+ million by
@@ -38,6 +39,7 @@ implementing accounting best practices
 - Validated and analyzed records of 50-60 employee expenses to process reimbursements per month
 
 **EFL/ Expolanka USA LLC ​(Feb 2015 to Oct 2016)**
+
 *Accounting Coordinator ​– ​Elmont, NY*
 - Analyzed ledgers, Gross Profit reports, and bank reconciliation per day
 - Managed 100-120 vendor accounts and company expenses of three smaller branches
